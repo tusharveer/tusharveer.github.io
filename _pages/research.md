@@ -38,7 +38,7 @@ body_class: page-research
         <a class="paper-title" href="https://www.researchgate.net/publication/398861687_Transforming_Data_into_Action_Developmental_Perspectives_from_India">Transforming Data into Action: Development Perspectives from India</a>
         <div class="paper-authors">Dr. Anand Rao et al.</div>
         <div class="paper-venue">ResearchGate</div>
-        <div class="paper-actions"><a class="paper-link" href="https://www.researchgate.net/publication/398861687_Transforming_Data_into_Action_Developmental_Perspectives_from_India">ResearchGate</a><a class="paper-link" href="https://scholar.google.com/citations?user=0YsZzMwAAAAJ&hl=en">Author's Google Scholar</a></div>
+        <div class="paper-actions"><a class="paper-link" href="https://www.researchgate.net/publication/398861687_Transforming_Data_into_Action_Developmental_Perspectives_from_India">ResearchGate</a><a class="paper-link" href="https://scholar.google.com/citations?user=0YsZzMwAAAAJ&hl=en">Google Scholar</a></div>
       </li>
     </ol>
   </section>
