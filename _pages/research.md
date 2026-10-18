@@ -22,7 +22,6 @@ body_class: page-research
   <section class="paper-section" id="work-in-progress">
     <h2>Work in progress</h2>
     <ol class="papers">
-      <li class="paper"><span class="paper-title">Misallocation and Distribution of Productivity: Understanding Markets in Emerging Economies</span></li>
       <li class="paper">
         <a class="paper-title" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7560678">Macro-Financial Linkages and Business Cycle Transmission Between the United Kingdom and Australia</a>
         <div class="paper-authors">Tushar Veer Singh</div>
