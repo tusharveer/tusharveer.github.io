@@ -46,10 +46,10 @@ redirect_from:
       </ul>
     </section>
     <section>
-      <h2>Affiliations</h2>
+      <h2>Past Affiliations</h2>
       <ul class="side-list">
-        <li>Research Fellow, Centre for Economic Research in Pakistan (CERP)</li>
-        <li>Research Fellow, Mehboob ul Haq Research Center, LUMS</li>
+        <li>United Nations Development Programme</li>
+        <li>School of Social Sciences, University of Manchester</li>
       </ul>
     </section>
     <section class="contact">
