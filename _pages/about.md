@@ -14,7 +14,7 @@ redirect_from:
       <h1>Tushar Veer Singh</h1>
       <p class="hero-role">Msc in Economics <br>University of Manchester, United Kingdom</p>
       <p class="hero-bio">I am an independent researcher, with broad research interests in Macroeconomics and applied microeconomics. </p>
-      <p class="hero-links"><a href="mailto:{{ iamtusharvs@gmail.com }}">Email</a><a href="/resume/">CV</a><a href="https://github.com/{{ https://github.com/tusharveer }}" target="_blank" rel="noopene[...]</p>
+      <p class="hero-links"><a href="mailto:{{ iamtusharvs@gmail.com }}">Email</a><a href="/resume/">CV</a><a href="https://github.com/{{ https://github.com/tusharveer }}" target="_blank" rel="noopener">GitHub</a></p>
     </div>
     <figure class="hero-photo"><img class="portrait" src="/images/profile.jpg" alt="Muhammad Bashir" width="750" height="938"></figure>
   </div>
@@ -29,7 +29,7 @@ redirect_from:
     </section>
     <section>
       <h2>Beyond research</h2>
-      <p>When I am not thinking about economics, I often turn to Hindi music—its rhythm, emotion, and expressive depth. I also enjoy following tennis closely, especially the strategic intensity and [...]</p>
+      <p>When I am not thinking about economics, I often turn to Hindi music—its rhythm, emotion, and expressive depth. I also enjoy following tennis closely, especially the strategic intensity and </p>
     </section>
   </div>
   <aside class="home-aside">
