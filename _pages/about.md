@@ -14,7 +14,7 @@ redirect_from:
       <h1>Muhammad Bashir</h1>
       <p class="hero-role">PhD Student in Economics<br>University of California, Berkeley</p>
       <p class="hero-bio">I am a 3rd year PhD student in Economics at UC Berkeley, with broad research interests in Public Finance, Labor Economics, Development Economics and Finance.</p>
-      <p class="hero-links"><a href="mailto:{{ site.author.email }}">Email</a><a href="/resume/">CV</a><a href="https://github.com/{{ site.author.github }}" target="_blank" rel="noopener">GitHub</a></p>
+      <p class="hero-links"><a href="mailto:{{ site.author.email }}">Email</a><a href="/resume/">CV</a><a href="https://github.com/{{ https://github.com/tusharveer }}" target="_blank" rel="noopener">GitHub</a></p>
     </div>
     <figure class="hero-photo"><img class="portrait" src="/images/profile.jpg" alt="Muhammad Bashir" width="750" height="938"></figure>
   </div>
