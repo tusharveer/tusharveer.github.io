@@ -36,7 +36,7 @@ body_class: page-research
     <ol class="papers">
       <li class="paper">
         <a class="paper-title" href="https://www.researchgate.net/publication/398861687_Transforming_Data_into_Action_Developmental_Perspectives_from_India">Transforming Data into Action: Development Perspectives from India</a>
-        <div class="paper-authors">Tushar Veer Singh</div>
+        <div class="paper-authors">Dr. Anand Rao et al.</div>
         <div class="paper-venue">ResearchGate</div>
       </li>
     </ol>
