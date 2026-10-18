@@ -16,7 +16,7 @@ redirect_from:
       <p class="hero-bio">I am an independent researcher with broad interests in macroeconomics and applied microeconomics.</p>
       <p class="hero-links">
         <a href="mailto:{{ site.author.email }}">Email</a>
-        <a href="/resume/">CV</a>
+        <a href="mailto:{{ site.author.email }}?subject=CV%20Request">Available on request</a>
         <a href="https://github.com/tusharveer" target="_blank" rel="noopener">GitHub</a>
       </p>
     </div>
@@ -33,7 +33,7 @@ redirect_from:
     </section>
     <section>
       <h2>Beyond research</h2>
-      <p>When I am not thinking about economics, I often turn to Hindi music—its rhythm, emotion, and expressive depth. I also enjoy following tennis closely, especially the strategic intensity and drama of the sport. Beyond that, I value the community around both interests: I enjoy attending live music performances and discovering new artists, and on the tennis side, I like playing and watching with friends at local clubs, where the social energy and competitive spirit are just as rewarding as the game itself.</p>
+      <p>When I am not thinking about economics, I often turn to Hindi music—its rhythm, emotion, and expressive depth. I also enjoy following tennis closely, especially the strategic intensity and complexity of the game.</p>
     </section>
   </div>
   <aside class="home-aside">
