@@ -9,9 +9,9 @@
 locale                   : "en-US"
 title                    : "Muhammad Bashir"
 title_separator          : "-"
-name                     : &name "Muhammad Bashir"
+name                     : &name "Tushar Veer Singh"
 description              : &description "personal description"
-url                      : https://bashirmohammad.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://tusharveer.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bashirmohammad/bashirmohammad.github.io"
 
