@@ -33,6 +33,12 @@ body_class: page-research
   </section>
   <section class="paper-section" id="others">
     <h2>Others</h2>
-    <p>Additional research activities, notes, and non-publication outputs will be listed here.</p>
+    <ol class="papers">
+      <li class="paper">
+        <a class="paper-title" href="https://www.researchgate.net/publication/398861687_Transforming_Data_into_Action_Developmental_Perspectives_from_India">Transforming Data into Action: Development Perspectives from India</a>
+        <div class="paper-authors">Tushar Veer Singh</div>
+        <div class="paper-venue">ResearchGate</div>
+      </li>
+    </ol>
   </section>
 </div>
