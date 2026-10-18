@@ -23,7 +23,7 @@ redirect_from:
 <div class="container home-grid">
   <div class="home-papers">
     <section>
-      <h2>Working papers</h2>
+      <h2>Research</h2>
 {% include working-papers.html %}
       <p class="more"><a href="/research/">All research <span aria-hidden="true">&rarr;</span></a></p>
     </section>
