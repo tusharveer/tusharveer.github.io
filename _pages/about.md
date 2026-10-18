@@ -42,7 +42,7 @@ redirect_from:
       <ul class="side-list">
         <li>Predoctoral researcher in economics, Columbia University, for professors <a href="https://michaelcbest.github.io/">Michael Best</a> and <a href="https://sites.google.com/view/jwillis/">J. Willis</a></li>
         <li>Master's in economics, University of Manchester (advisor: <a href="https://mazharwaseem.com">Mazhar Waseem</a>)</li>
-        <li>Undergraduate in Economics and Mathematics, Lahore University of Management Sciences (LUMS), funded by the <a href="https://nop.lums.edu.pk/">National Outreach Program</a> scholarship</li>
+        <li>Undergraduate in Business Economics, University of Delhi</li>
       </ul>
     </section>
     <section>
