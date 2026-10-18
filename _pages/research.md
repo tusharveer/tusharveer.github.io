@@ -38,6 +38,7 @@ body_class: page-research
         <div class="paper-title">Transforming Data into Action: Developmental Perspectives from India</div>
         <div class="paper-authors"><a href="https://scholar.google.com/citations?user=0YsZzMwAAAAJ&hl=en">Dr. Anand Rao</a> et al.</div>
         <div class="paper-venue">ResearchGate</div>
+        <div class="paper-contribution">My contribution: a chapter in this book.</div>
       </li>
     </ol>
   </section>
