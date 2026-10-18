@@ -10,9 +10,9 @@ redirect_from:
 <header class="page-header">
   <div class="container">
     <div class="page-head"><h1>Curriculum Vitae</h1></div>
-    <p class="download">CV available on request.</p>
+    <p class="download"><a class="download-link" href="/files/Bashir_CV.pdf" target="_blank" rel="noopener">Download CV (PDF)</a></p>
   </div>
 </header>
 <div class="container page-body">
-  <p>My CV is available on request. Please <a href="mailto:{{ site.author.email }}">email me</a> for a copy.</p>
+  <iframe class="cv-frame" src="/files/Bashir_CV.pdf" title="Muhammad Bashir CV"></iframe>
 </div>
