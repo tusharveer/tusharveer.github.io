@@ -33,7 +33,7 @@ redirect_from:
     </section>
     <section>
       <h2>Beyond research</h2>
-      <p>When I am not thinking about economics, I often turn to Hindi music—its rhythm, emotion, and expressive depth. I also enjoy following tennis closely, especially the strategic intensity and drama of the sport.</p>
+      <p>When I am not thinking about economics, I often turn to Hindi music—its rhythm, emotion, and expressive depth. I also enjoy following tennis closely, especially the strategic intensity and drama of the sport. Beyond that, I value the community around both interests: I enjoy attending live music performances and discovering new artists, and on the tennis side, I like playing and watching with friends at local clubs, where the social energy and competitive spirit are just as rewarding as the game itself.</p>
     </section>
   </div>
   <aside class="home-aside">
