@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Muhammad Bashir"
+title: "Tushar Veer Singh"
 layout: site
 body_class: page-home
 redirect_from:
