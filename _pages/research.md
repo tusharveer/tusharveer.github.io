@@ -11,16 +11,16 @@ body_class: page-research
       <h1>Research</h1>
       <button type="button" class="expand-all" aria-pressed="false">Show all abstracts</button>
     </div>
-    <nav class="section-index" aria-label="Sections"><a href="#working-papers">Working Papers</a><a href="#selected-work-in-progress">Selected Work in Progress</a></nav>
+    <nav class="section-index" aria-label="Sections"><a href="#publications">Publications</a><a href="#work-in-progress">Work in progress</a></nav>
   </div>
 </header>
 <div class="container page-body">
-  <section class="paper-section" id="working-papers">
-    <h2>Working Papers</h2>
+  <section class="paper-section" id="publications">
+    <h2>Publications</h2>
 {% include working-papers.html %}
   </section>
-  <section class="paper-section" id="selected-work-in-progress">
-    <h2>Selected Work in Progress</h2>
+  <section class="paper-section" id="work-in-progress">
+    <h2>Work in progress</h2>
     <ol class="papers">
       <li class="paper"><span class="paper-title">Misallocation and Distribution of Productivity: Understanding Markets in Emerging Economies</span></li>
     </ol>
