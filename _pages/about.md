@@ -33,7 +33,7 @@ redirect_from:
     </section>
     <section>
       <h2>Beyond research</h2>
-      <p>When I am not thinking about economics, I often turn to Hindi music—its rhythm, emotion, and expressive depth. I also enjoy following tennis closely, especially the strategic intensity and complexity of the game.</p>
+      <p>When I am not thinking about economics, I often turn to Hindi music—its rhythm, emotion, and expressive depth. Classical compositions and vintage melodies offer a wonderful counterpoint to academic work, grounding me in narrative and reflection. I also enjoy following tennis closely, especially the strategic intensity and complexity of the game. For me, a tightly contested match mirrors the optimization problems and strategic decision-making found in economics, though with far more unpredictable momentum shifts.</p>
     </section>
   </div>
   <aside class="home-aside">
