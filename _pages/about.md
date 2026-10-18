@@ -41,7 +41,7 @@ redirect_from:
       <h2>Background</h2>
       <ul class="side-list">
         <li>Predoctoral researcher in economics, Columbia University, for professors <a href="https://michaelcbest.github.io/">Michael Best</a> and <a href="https://sites.google.com/view/jwillis/">J. Willis</a></li>
-        <li>Master's in economics, University of Manchester (advisor: <a href="https://mazharwaseem.com">Mazhar Waseem</a>)</li>
+        <li>Master's in economics, University of Manchester</li>
         <li>Undergraduate in Business Economics, University of Delhi</li>
       </ul>
     </section>
