@@ -35,7 +35,7 @@ body_class: page-research
     <h2>Others</h2>
     <ol class="papers">
       <li class="paper">
-        <div class="paper-title">Transforming Data into Action: Developmental Perspectives from India</div>
+        <a class="paper-title" href="https://www.researchgate.net/publication/398861687_Transforming_Data_into_Action_Developmental_Perspectives_from_India">Transforming Data into Action: Developmental Perspectives from India</a>
         <div class="paper-authors"><a href="https://scholar.google.com/citations?user=0YsZzMwAAAAJ&hl=en">Dr. Anand Rao</a> et al.</div>
         <div class="paper-venue">ResearchGate</div>
         <div class="paper-contribution">My contribution: a chapter in this book.</div>
