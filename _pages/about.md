@@ -14,7 +14,7 @@ redirect_from:
       <h1>Tushar Veer Singh</h1>
       <p class="hero-role">Msc in Economics <br>University of Manchester, United Kingdom</p>
       <p class="hero-bio">I am an independent researcher, with broad research interests in Macroeconomics and applied microeconomics. </p>
-      <p class="hero-links"><a href="mailto:{{ iamtusharvs@gmail.com }}">Email</a><a href="/resume/">CV</a><a href="https://github.com/{{ https://github.com/tusharveer }}" target="_blank" rel="noopener">GitHub</a></p>
+      <p class="hero-links"><a href="mailto:{{ iamtusharvs@gmail.com }}">Email</a><a href="/resume/">CV</a><a href="https://github.com/{{ https://github.com/tusharveer }}" target="_blank" rel="noopene[...]
     </div>
     <figure class="hero-photo"><img class="portrait" src="/images/profile.jpg" alt="Muhammad Bashir" width="750" height="938"></figure>
   </div>
@@ -29,14 +29,14 @@ redirect_from:
     </section>
     <section>
       <h2>Beyond research</h2>
-      <p>When I am not thinking about economics, I often turn to Hindi music—its rhythm, emotion, and expressive depth. I also enjoy following tennis closely, especially the strategic intensity and discipline of the game. These interests offer a welcome balance to academic work and keep me engaged with culture, sport, and the broader world in ways that are both energizing and intellectually rewarding.</p>
+      <p>When I am not thinking about economics, I often turn to Hindi music—its rhythm, emotion, and expressive depth. I also enjoy following tennis closely, especially the strategic intensity and [...]
     </section>
   </div>
   <aside class="home-aside">
     <section>
       <h2>Background</h2>
       <ul class="side-list">
-        <li>Predoctoral researcher in economics, Columbia University, for professors <a href="https://michaelcbest.github.io/">Michael Best</a> and <a href="https://sites.google.com/view/jwillis/">Jack J. Willis</a></li>
+        <li>Predoctoral researcher in economics, Columbia University, for professors <a href="https://michaelcbest.github.io/">Michael Best</a> and <a href="https://sites.google.com/view/jwillis/">Jac[...]
         <li>Master's in economics, University of Manchester (advisor: <a href="https://mazharwaseem.com">Mazhar Waseem</a>)</li>
         <li>Undergraduate in Economics and Mathematics, Lahore University of Management Sciences (LUMS), funded by the <a href="https://nop.lums.edu.pk/">National Outreach Program</a> scholarship</li>
       </ul>
@@ -50,7 +50,7 @@ redirect_from:
     </section>
     <section class="contact">
       <h2>Contact</h2>
-      <p><a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a><br>Department of Economics<br>UC Berkeley</p>
+      <p><a href="mailto:iamtusharvs@gmail.com">iamtusharvs@gmail.com</a><br>Independent Scholar<br>Delhi, India</p>
     </section>
   </aside>
 </div>
