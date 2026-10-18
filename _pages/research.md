@@ -22,7 +22,6 @@ body_class: page-research
   <section class="paper-section" id="work-in-progress">
     <h2>Work in progress</h2>
     <ol class="papers">
-      <li class="paper"><span class="paper-title">Misallocation and Distribution of Productivity: Understanding Markets in Emerging Economies</span></li>
     </ol>
   </section>
 </div>
