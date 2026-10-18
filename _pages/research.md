@@ -27,7 +27,7 @@ body_class: page-research
         <div class="paper-authors">Tushar Veer Singh</div>
         <div class="paper-venue">SSRN Working Paper, October 2026</div>
         <div class="paper-actions"><button type="button" class="paper-link abs-toggle" aria-expanded="false" aria-controls="abs-macro-financial-wip">Abstract</button><a class="paper-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7560678">SSRN</a></div>
-        <div class="paper-abstract" id="abs-macro-financial-wip"><p><span class="abs-label">Abstract:</span> Using a multi-variable VAR model on a quarterly dataset spanning four decades, this paper models the transmission of shocks through export-oriented financial and trade channels. Preliminary findings reveal an asymmetric relationship in business cycle transmission: an aggregate output shock originating in the UK Granger causes Australia's real GDP, showing a strong one-quarter lag and a weaker two-quarter lag. But no reciprocal effect from Australia to the UK is observed. Beyond the empirical findings, this paper also establishes a theoretical framework linking continuous-time macroeconomic systems to discrete-time VAR representations, providing a robust mathematical foundation for analyzing standard discrete datasets.</p></div>
+        <div class="paper-abstract" id="abs-macro-financial-wip"><p><span class="abs-label">Abstract:</span> Using a multi-variable VAR model on a quarterly dataset spanning four decades, this paper makes a quantitative assessment of how macroeconomic and financial shocks propagate between the United Kingdom and Australia, with emphasis on output, inflation, interest rate, and credit conditions. It highlights asymmetries in business cycle transmission and the role of financial frictions in amplifying cross-border spillovers.</p></div>
       </li>
     </ol>
   </section>
@@ -35,10 +35,9 @@ body_class: page-research
     <h2>Others</h2>
     <ol class="papers">
       <li class="paper">
-        <a class="paper-title" href="https://www.researchgate.net/publication/398861687_Transforming_Data_into_Action_Developmental_Perspectives_from_India">Transforming Data into Action: Development Perspectives from India</a>
+        <div class="paper-title">Transforming Data into Action: Developmental Perspectives from India</div>
         <div class="paper-authors"><a href="https://scholar.google.com/citations?user=0YsZzMwAAAAJ&hl=en">Dr. Anand Rao</a> et al.</div>
         <div class="paper-venue">ResearchGate</div>
-        <div class="paper-actions"><a class="paper-link" href="https://www.researchgate.net/publication/398861687_Transforming_Data_into_Action_Developmental_Perspectives_from_India">ResearchGate</a></div>
       </li>
     </ol>
   </section>
