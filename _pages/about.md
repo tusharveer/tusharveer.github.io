@@ -54,7 +54,7 @@ redirect_from:
     </section>
     <section class="contact">
       <h2>Contact</h2>
-      <p><a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a><br>Independent Scholar<br>UC Delhi, India</p>
+      <p><a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a><br>Independent Scholar<br>Delhi, India</p>
     </section>
   </aside>
 </div>
