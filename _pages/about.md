@@ -13,7 +13,7 @@ redirect_from:
     <div class="hero-text">
       <h1>Tushar Veer Singh</h1>
       <p class="hero-role">Msc in Economics <br>University of Manchester, United Kingdom</p>
-      <p class="hero-bio">I am a 3rd year PhD student in Economics at UC Berkeley, with broad research interests in Public Finance, Labor Economics, Development Economics and Finance.</p>
+      <p class="hero-bio">I am an independent researcher, with broad research interests in Macroeconomics and applied microeconomics. </p>
       <p class="hero-links"><a href="mailto:{{ site.author.email }}">Email</a><a href="/resume/">CV</a><a href="https://github.com/{{ site.author.github }}" target="_blank" rel="noopener">GitHub</a></p>
     </div>
     <figure class="hero-photo"><img class="portrait" src="/images/profile.jpg" alt="Muhammad Bashir" width="750" height="938"></figure>
