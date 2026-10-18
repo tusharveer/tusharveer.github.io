@@ -16,7 +16,7 @@ redirect_from:
       <p class="hero-bio">I am an independent researcher, with broad research interests in Macroeconomics and applied microeconomics. </p>
       <p class="hero-links"><a href="mailto:{{ iamtusharvs@gmail.com }}">Email</a><a href="/resume/">CV</a><a href="https://github.com/{{ https://github.com/tusharveer }}" target="_blank" rel="noopener">GitHub</a></p>
     </div>
-    <figure class="hero-photo"><img class="portrait" src="/images/profile.jpg" alt="Muhammad Bashir" width="750" height="938"></figure>
+    <figure class="hero-photo"><img class="portrait" src="/images/profile.jpg" alt="Tushar Veer Singh" width="750" height="938"></figure>
   </div>
 </section>
 
