@@ -29,7 +29,7 @@ redirect_from:
     </section>
     <section>
       <h2>Beyond research</h2>
-      <p>In my free time, I immerse myself in the world of Punjabi music, from the vibrant beats of modern songs to the timeless essence of classical khayaal gayaaki. My interests also extend to the rich tradition of Punjabi poetry, along with a deep appreciation for the history and culture of Punjab. These days, I’ve been listening to <a href="https://youtu.be/yTQMX7nK9Ic?list=RDyTQMX7nK9Ic" target="_blank" rel="noopener">this</a>, a 16th-century masterpiece by Shah Hussain. It evokes the struggle of crossing a deep river alone, a powerful image that captures the essence of life and the challenges we face in the modern world.</p>
+      <p>When I am not thinking about economics, I often turn to Hindi music—its rhythm, emotion, and expressive depth. I also enjoy following tennis closely, especially the strategic intensity and discipline of the game. These interests offer a welcome balance to academic work and keep me engaged with culture, sport, and the broader world in ways that are both energizing and intellectually rewarding.</p>
     </section>
   </div>
   <aside class="home-aside">
