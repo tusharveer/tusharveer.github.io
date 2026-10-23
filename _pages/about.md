@@ -13,7 +13,7 @@ redirect_from:
     <div class="hero-text">
       <h1>Tushar Veer Singh</h1>
       <p class="hero-role">MSc in Economics<br>University of Manchester, United Kingdom</p>
-      <p class="hero-bio">I am an independent researcher with broad interests in macroeconomics and applied microeconomics.</p>
+      <p class="hero-bio">I am an independent researcher with broad interests in macroeconomics, financial economics and sustainability.</p>
       <p class="hero-links">
         <a href="mailto:{{ site.author.email }}">Email</a>
         <a href="/resume/">CV</a>
